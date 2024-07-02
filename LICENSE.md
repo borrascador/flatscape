@@ -1,0 +1,1 @@
+Copyright Jan Tabaczynski 2024. All rights reserved.
