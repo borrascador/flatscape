@@ -2,6 +2,8 @@
 
 Flatscape transforms videos into images of frozen movement. 
 
+[<img width="400px" src="https://www.jantabaczynski.com/images/slitscan/V1-0001_C0364-horizontal-reverse-(12,0)px-thirds_03.jpg">](https://www.jantabaczynski.com/photo/aquadom.html)
+
 Flatscape takes a video file as input, then combines a portion of each video frame into a single output image file.
 
 ## Usage
