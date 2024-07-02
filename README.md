@@ -1,5 +1,7 @@
 # Flatscape
 
+Flatscape transforms videos into images of frozen movement. 
+
 Flatscape takes a video file as input, then combines a portion of each video frame into a single output image file.
 
 ## Usage
